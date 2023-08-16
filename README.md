@@ -1,1 +1,1 @@
-# Python-practice1
+# 파이썬 배우기 1일차
